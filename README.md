@@ -1,3 +1,3 @@
-# sleeping_barber
+# Sleeping Barber Implementation
 
-Three barbers taking unlimited amount of customers.
+This program simulates 3 barbers taking unlimited amount of customers using multithreaded programming
